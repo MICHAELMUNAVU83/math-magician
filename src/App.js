@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reloa
+          Edit
+          {' '}
+          <code>src/App.js</code>
+          {' '}
+          and save to reloa
         </p>
         <a
           className="App-link"
