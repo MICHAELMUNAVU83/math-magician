@@ -28,7 +28,6 @@ class Calculator extends Component {
     return (
       <div className="calcApp">
         <div className="output">
-          {/* <div className="previous"></div> */}
           <div className="current">{results}</div>
         </div>
 
