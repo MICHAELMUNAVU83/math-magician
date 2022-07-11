@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@200;300&family=Josefin+Sans:wght@100&family=Kanit:ital,wght@1,300;1,400&family=Kdam+Thmor+Pro&family=Roboto+Mono:ital,wght@1,500&display=swap');
+
 .calcApp {
   display: grid;
   justify-content: center;
@@ -8,14 +9,16 @@
   grid-template-rows: minmax(100px, auto) repeat(5, 80px);
   background-color: rgba(255, 255, 255, 0.75);
 }
-.fullcalc{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+
+.fullcalc {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
-p{
-    font-size: 40px;
-    font-family: 'Roboto Mono', monospace;
+
+p {
+  font-size: 40px;
+  font-family: 'Roboto Mono', monospace;
 }
 
 .calcApp > button {
