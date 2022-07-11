@@ -1,0 +1,17 @@
+nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: orange;
+}
+nav h2{
+    margin-right: 50%;
+}
+
+
+a{
+    padding-top:20px;
+    text-decoration: none;
+    color: gray;
+    
+}
