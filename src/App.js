@@ -1,4 +1,3 @@
-import './App.css';
 import Calculator from './components/Calculator';
 import Navbar from './components/Navbar';
 // import Quote from './components/Quote';
