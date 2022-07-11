@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@200;300&family=Josefin+Sans:wght@100&family=Kanit:ital,wght@1,300;1,400&family=Kdam+Thmor+Pro&display=swap');
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    font-family: 'Kanit', sans-serif;
+    margin-left: 25%;
+    font-size: 30px;
+    margin-top: 15%;
+    height: 100%;
+}

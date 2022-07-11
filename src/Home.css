@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Inter:wght@200;300&family=Josefin+Sans:wght@100&family=Kanit:ital,wght@1,300;1,400&family=Kdam+Thmor+Pro&family=Roboto+Mono:ital,wght@1,500&display=swap');
+h1{
+    width:70%;
+    font-family: 'Inter', sans-serif;
+    margin-left: 20%;
+    margin-bottom: 20%;
+}
+h4{
+    width:100%;
+    font-size: 40px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    margin-left: 20%;
+}
