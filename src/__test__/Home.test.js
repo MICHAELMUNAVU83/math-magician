@@ -1,9 +1,9 @@
 import renderer from 'react-test-renderer';
-import About from '../components/About';
+import Home from '../components/Home';
 
-it('Calculator renders correctly', () => {
+it('Home renders correctly', () => {
   const tree = renderer
-    .create(<About />)
+    .create(<Home />)
     .toJSON();
   expect(tree).toMatchSnapshot();
 });

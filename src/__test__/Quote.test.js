@@ -1,7 +1,7 @@
 import renderer from 'react-test-renderer';
 import Quote from '../components/Quote';
 
-it('Calculator renders correctly', () => {
+it('Qoute renders correctly', () => {
   const tree = renderer
     .create(<Quote />)
     .toJSON();
