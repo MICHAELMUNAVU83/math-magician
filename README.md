@@ -18,12 +18,14 @@ THIS IS A CALCULATOR REACT APP
 
 ## Authors
 
-👤 **Author1**
+👤 **MICHAEL MUNAVU'*
 
 - GitHub: [@githubhandle](https://github.com/MICHAELMUNAVU83)
 - Twitter: [@twitterhandle](https://twitter.com/MunavuMichael)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/michael-munavu-78703a218/)
-- 
+
+[Live Netlify Link](https://precious-taffy-7621d7.netlify.app/)
+
 
 ## Getting Started
 To get a local copy up and running  use gitclone or download the ZIP folder
