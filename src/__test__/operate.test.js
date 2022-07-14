@@ -1,15 +1,5 @@
-import calculate from '../logic/calculate';
+import operate from "../logic/operate";
 
-it('checks calculate', () => {
-  const object1 = {
-    total: null,
-    next: null,
-    operation: null,
-  };
-
-  expect(calculate(object1, 'AC')).toEqual({
-    total: null,
-    next: null,
-    operation: null,
-  });
-});
+it('add 2' , ()=>{
+    expect(operate(1,5,'+')).toBe('6')
+})
