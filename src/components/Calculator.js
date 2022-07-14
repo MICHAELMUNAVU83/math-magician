@@ -27,9 +27,9 @@ const Calculator = () => {
         <p>Lets do some math</p>
       </div>
       <div className="calcApp">
-        <div className="output" >
+        <div className="output">
           {/* <div className="previous"></div> */}
-          <div className="current" data-testid = 'output'>{results}</div>
+          <div className="current" data-testid="output">{results}</div>
         </div>
 
         <button type="button" onClick={clickCalc}>AC</button>
