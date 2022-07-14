@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Qoute renders correctly 1`] = `
+<div>
+  <h3>
+    Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.
+  </h3>
+</div>
+`;
